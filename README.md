@@ -1,7 +1,7 @@
 # phbs-qps-2024
 PHBS Quantitative Problem Solving 2024 course relative works and files
-
-# Author: Qin Yuhang (Justin)
+- Author: Qin Yuhang (Justin)
+- Major: Quantitative Finance
 
 [GitHub Repository URL](https://github.com/Allwings1/phbs-qps-2024)
 
